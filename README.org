@@ -10,11 +10,11 @@ This is an Akonadi resource that lets KDE PIM applications like [[https://kde.or
 
 | Feature              | Reading | Writing |
 |----------------------+---------+---------|
-| Calendar names       | OK      | ---     |
+| Calendar names       | no      | ---     |
 | Calendar colours     | ---     | ---     |
-| Calendar events      | OK      | ---     |
-| Address book names   | OK      | ---     |
-| Contacts             | OK      | ---     |
+| Calendar events      | no     | ---     |
+| Address book names   | no       | ---     |
+| Contacts             | no      | ---     |
 
 * How to build this project
 
